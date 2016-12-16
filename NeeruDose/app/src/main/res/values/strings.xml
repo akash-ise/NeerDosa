@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NeerDosa</string>
+    <string name="sky">
+    <b><i>Ingredients</i></b>\n\n
+        1.  One cup raw rice (sona masuri / rice)\n\n
+    2.  ½ cup thin avalakki / beaten rice\n\n
+        3.  ¼ cup coconut, fresh \n\n
+    4.  Salt to taste\n\n
+    5.  Oil to grease the pan\n\n
+    6.  2-3 cups of water\n
+</string>
+    <string name="dosa">
+    Soak the rice overnight, or atleast 4-6 hours.\n\nThe next morning, wash the rice in running water and blend along with coconut. (do not add in any water)
+    blend the rice to smooth batter and collect in a large mixing bowl.\n\nAdd in required water to make pouring consistency. Make sure the consistency is similar to rava dosa batter.
+        \n\nSpread some oil over tava and pour the batter over the hot tava. You should be able to see some holes formed while pouring batter over tava. Thats the right consistency of batter. if not you need to add some more watter.
+    smear some oil over the dosa.\n\nCover the dosa with a lid. and allow to cook on medium flame. fold and serve.\n\nServe the neer dosa with chutney or sweet jaggery mixed with coconut.
+</string>
+</resources>
